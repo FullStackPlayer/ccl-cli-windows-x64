@@ -26,7 +26,7 @@ ccl-windows-x64 --version
 ccl-windows-x64 --help
 ```
 
-注意：命令名称是 `ccl-windows-x64`，而是 `ccl`，这样可以明确表示此二进制文件是为特定架构编译的。如果你想要直接使用 `ccl` 命令，请全局安装 `ccl-cli` 包。
+注意：命令名称是 `ccl-windows-x64`，而是 `ccl`，这样可以明确表示此二进制文件是为特定架构编译的。如果你想要直接使用 `ccl` 命令，请全局安装 `ccl-cli-installer` 包。
 
 ## 架构
 
