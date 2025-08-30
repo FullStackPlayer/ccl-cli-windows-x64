@@ -1,3 +1,9 @@
+# executable files
+bin/ccl*
+
+# lock files
+package-lock.json
+
 # Logs
 logs
 *.log
