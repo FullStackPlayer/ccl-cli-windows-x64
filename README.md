@@ -1,6 +1,10 @@
 # ccl-cli-windows-x64
 
-适用于 windows-x64 架构的 ccl-cli 包。
+适用于 windows-x64 架构的 ccl-cli 包，安装后可以使用 `ccl-windows-x64` 命令。
+
+**注意**
+
+一般情况下不建议您直接安装此包，最好全局安装 `ccl-cli-installer` 包，这样安装后还可以直接使用 `ccl` 命令。
 
 ## 描述
 
