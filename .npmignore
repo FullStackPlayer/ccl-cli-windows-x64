@@ -1,4 +1,6 @@
 # .npmignore file for ccl-cli-windows-x64
+# macOS
+.DS_Store
 
 # Exclude files that should not be included in the npm package
 .gitignore
@@ -28,6 +30,3 @@ package-lock.json
 
 # Exclude any .git files
 .git/
-
-# Exclude the actual binary file in bin directory, but allow placeholder files
-bin/ccl.exe
