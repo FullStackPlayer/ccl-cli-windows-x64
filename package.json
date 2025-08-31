@@ -1,10 +1,10 @@
 {
   "name": "ccl-cli-windows-x64",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "ccl-cli package for windows-x64 architecture",
   "main": "index.js",
   "bin": {
-    "ccl-windows-x64": "./bin/ccl.exe"
+    "ccl-win32-x64": "./bin/ccl.exe"
   },
   "scripts": {
     "postinstall": "node postinstall.js",
